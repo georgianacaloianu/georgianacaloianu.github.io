@@ -7,6 +7,7 @@
 - cook
 - gym
 - tutore someone
+- working in web testing (_Bitdefender_)
 
 #***Qualities***
 1. Enthusiasm
