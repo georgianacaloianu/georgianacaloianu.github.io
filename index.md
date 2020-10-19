@@ -1,6 +1,5 @@
 # by Caloianu Georgiana
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -22,4 +21,4 @@ Syntax highlighted code block
 
 [Here is me]([https://github.com/georgianacaloianu/georgianacaloianu.github.io/blob/main/116271590_310586653618312_4206999771516405381_n.jpg](url) and ![Image](src)
 )
-```
+
