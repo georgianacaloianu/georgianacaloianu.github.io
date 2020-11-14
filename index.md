@@ -1,11 +1,9 @@
-# VentureGear
+# Find your next adventure
 Buton de Download now -> Call to action
 
-Motto: 
-VentureGear
-Find your next adventure!
-Ramai in forma si relaxat!
-Ramai la curent cu noile sporturi si noile sali de sport din jurul tau!
+Our motto 
+
+Stay connected with the new sports and new 
 
 Tot ce aveți nevoie pentru o activitate sportivă gasiti într-un singur loc: de la echipamente până la închirierea de teren, cu VentureGeat puteți rezerva o experiență întreagă!
 
@@ -36,11 +34,10 @@ Newsletter:
 Aboneaza-te la newsletter-ul nostru pentru a afla cele mai recente functionalitati ale aplicatiei VentureGear si data la care va fi disponibila aplicatia pe Google Play si App Store. -> se va obtine o lista initiala de utilizatori interesati ai aplicatiei, care pot fi ulterior beta-userii care sa testeze MVP-ul
 +Nume si email + Submit btn -> Call to action
 
-Ai intrebari sau doresti sa ne lasi un feedback?
-Ne gasesti aici: / Contacteaza-ne aici:
-email echipa: venturegear-support@gmail.com
+***Ai intrebari sau doresti sa ne lasi un feedback?***
+Ne gasesti aici:[venturegear-support@gmail.com](mailto:caloianu.georgiana97@gmail.com)
 
-Pentru mai multe informații despre modul în care a fost gandit acest proiect, vizitați VentureGear fiki.
+***Pentru mai multe informații despre modul în care a fost gandit acest proiect, vizitați [VentureGear fiki](https://website128658.nicepage.io/VentureGear.html).***
 
 #***What I enjoy doing:***
 - read books
