@@ -1,12 +1,10 @@
-# Find your next adventure
+# VentureGear
 Buton de Download now -> Call to action
 
-Our motto 
-
+***Find you next adventure!***
 Stay connected with the new sports and new 
 
 Tot ce aveți nevoie pentru o activitate sportivă gasiti într-un singur loc: de la echipamente până la închirierea de teren, cu VentureGeat puteți rezerva o experiență întreagă!
-
 
 Problema identificata: Viata ocupata a oamenilor moderni care nu mai au timp sa investeasca timp in hobby-urile lor.
 
@@ -22,7 +20,8 @@ Iti doresti sa practici un sport, dar nu vrei sa investesti in achizitionarea un
 
 Detii un teren sau o sala de fitness care are nevoie de publicitate? Ai ajuns unde trebuie! Scrie anuntul tau in aplicatia noastra!
 
-Ce oferim: 
+***Why us?***
+See what can we do for you: 
 - servicii de rezervare online
 - vizibilitate pentru sali/terenuri
 - stil de viata sanatos
@@ -30,30 +29,24 @@ Ce oferim:
 - cautare pe baza locatiei (vacanta, cartierul tau)
 - comision fix pentru rezervarile confirmate si neconfirmate
 
-Newsletter:
+
+Find new ways to practice sports
+We offer a fully interactive map that helps you find the sports that you can practice near you or at a custom location
+
+Help your business grow
+VentureGear offers an innovative way to advertise your business to the public
+
+Stay healthy
+By offering more solutions to sports enthusiasts, we hope to help both the sports enthusiasts and newcomers into new sports
+
+***Newsletter***
 Aboneaza-te la newsletter-ul nostru pentru a afla cele mai recente functionalitati ale aplicatiei VentureGear si data la care va fi disponibila aplicatia pe Google Play si App Store. -> se va obtine o lista initiala de utilizatori interesati ai aplicatiei, care pot fi ulterior beta-userii care sa testeze MVP-ul
 +Nume si email + Submit btn -> Call to action
 
 ***Ai intrebari sau doresti sa ne lasi un feedback?***
-Ne gasesti aici:[venturegear-support@gmail.com](mailto:caloianu.georgiana97@gmail.com)
+Ne gasesti aici: [venturegear-support@gmail.com](mailto:caloianu.georgiana97@gmail.com)
 
 ***Pentru mai multe informații despre modul în care a fost gandit acest proiect, vizitați [VentureGear fiki](https://website128658.nicepage.io/VentureGear.html).***
-
-#***What I enjoy doing:***
-- read books
-- spend time with loved ones
-- gossip
-- cook
-- gym
-- tutore someone
-- working in web testing (_Bitdefender_)
-
-#***Qualities***
-1. Enthusiasm
-2. Persevering 
-3. Cutie pie
-4. Fun
-5. Smart pants
 
 #***This is me***
 <img src="116271590_310586653618312_4206999771516405381_n.jpg" alt="Here is me" >
