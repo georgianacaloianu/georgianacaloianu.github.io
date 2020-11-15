@@ -1,4 +1,4 @@
-Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGeat*** you can book an entire experience!<br>
+Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGeat*** you can book an entire experience!<br><br>
 <button type="button" onclick="downloadFcn()">Download now!</button> 
 
 ***Identified problem***
@@ -34,8 +34,8 @@ Subscribe to our newsletter to find out the latest features of the VentureGear a
   <input type="text" id="name" name="name"><br>
   <label for="email">Email:  </label>
   <input type="text" id="email" name="email"><br>
-  <input type="submit" onclick()="sumbitFcn()" value="Send">
-</form><br>
+</form>
+<button type="button" onclick()="sumbitFcn()" value="Send">
 
 ***Contact us***
 Do you have questions or would you like to leave us feedback?
