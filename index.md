@@ -45,7 +45,7 @@ Do you own a gym or know a gym that needs advertising?
   <label for="email">Email:  </label>
   <input type="text" id="email" name="email"><br>
 </form>
-<button type="button" onclick="sumbitFcn()">Send</button>
+<button type="button" onclick="submitFcn()">Send</button>
 
 ***Contact us*** Do you have questions or would you like to leave us feedback?<br>
 You can find us here: [venturegear-support@gmail.com](mailto:caloianu.georgiana97@gmail.com)
@@ -59,7 +59,7 @@ You can find us here: [venturegear-support@gmail.com](mailto:caloianu.georgiana9
    }
    
   let submitFcn = function() {
-    alert("Congrats! You will now receive neswletters from us!")
+    alert("Congrats! You will now receive neswletters from us!");
   }
 
 </script>
