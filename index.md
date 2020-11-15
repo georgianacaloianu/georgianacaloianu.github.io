@@ -1,6 +1,6 @@
 <style>
-  body {background-color: #E0E0E0;}
- .button {
+  body {background-color: #E8E8E8;}
+  button {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
