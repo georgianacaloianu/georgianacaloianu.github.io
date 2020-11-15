@@ -59,7 +59,7 @@ You can find us here: [venturegear-support@gmail.com](mailto:caloianu.georgiana9
    }
    
   let submitFcn = function() {
-    alert("Congrats! You will now receive neswletters from us!");
+    alert("Congrats! You will now receive newsletters from us!");
   }
 
 </script>
