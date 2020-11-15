@@ -1,10 +1,10 @@
 <style>
   body {background-color: #E8E8E8;}
   button {
-  background-color: #4CAF50; /* Green */
+  background-color: #00cccc; 
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -12,7 +12,7 @@
 }
  </style>
 **Everything you need for a sport activity can be found in one place: from equipment to field rental, with *VentureGear* you can book an entire experience!**<br>
-<button type="button" onclick="downloadFcn()">Download now!</button> 
+<t><button type="button" onclick="downloadFcn()">Download now!</button> 
 
 ***Identified problem*** The busy lives of modern people who no longer have time to invest time in their hobbies.
 
