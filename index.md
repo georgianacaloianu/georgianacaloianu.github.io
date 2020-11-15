@@ -1,5 +1,3 @@
-# VentureGear
-<img src="Screenshot from 2020-11-14 23-30-34.png">
 Buton de Download now -> Call to action
 
 ***Find you next adventure!***
