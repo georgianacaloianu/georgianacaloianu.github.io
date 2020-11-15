@@ -1,5 +1,7 @@
 Buton de Download now -> Call to action
 
+<button type="button">Download now!</button>
+
 ***Find you next adventure!***
 Stay connected with the new sports and new gyms
 
