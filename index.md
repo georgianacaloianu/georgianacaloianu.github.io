@@ -45,7 +45,7 @@ You can find us here: [venturegear-support@gmail.com](mailto:caloianu.georgiana9
   background-color: #00cccc; 
   border: none;
   color: white;
-  padding: 10px 25px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
