@@ -35,7 +35,7 @@ Subscribe to our newsletter to find out the latest features of the VentureGear a
   <label for="email">Email:  </label>
   <input type="text" id="email" name="email"><br>
 </form>
-<button type="button" onclick()="sumbitFcn()" value="Send">
+<button type="button" onclick()="sumbitFcn()">Send</button>
 
 ***Contact us***<br>
 Do you have questions or would you like to leave us feedback?
