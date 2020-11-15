@@ -6,4 +6,5 @@ show_downloads: false
 footer: 
   links:
     - label: "Find more about us"
+      icon:  "fab fa-fw fa-facebook-square"
       url: "https://website128658.nicepage.io/VentureGear.html"
