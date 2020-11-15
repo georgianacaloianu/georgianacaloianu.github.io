@@ -1,5 +1,5 @@
 Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGeat*** you can book an entire experience!
-<button type="button" onclick="alert("Not available yet! Please complete newsletter :) Have a great day!")>Download now!</button>
+<html><button type="button" onclick="alert("Not available yet! Please complete newsletter :) Have a great day!")>Download now!</button><html>
 
 ***Identified problem***
 The busy lives of modern people who no longer have time to invest time in their hobbies.
@@ -39,7 +39,7 @@ Subscribe to our newsletter to find out the latest features of the VentureGear a
  $("form").submit(function(){
   alert("Submitted");
 });
-  </script>
+</script>
 
 ***Contact us***
 Do you have questions or would you like to leave us feedback?
