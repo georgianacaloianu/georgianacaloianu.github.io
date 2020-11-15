@@ -37,13 +37,12 @@ Subscribe to our newsletter to find out the latest features of the VentureGear a
   <label for="email">Email: </label>
   <input type="text" id="email" name="email"><br>
   <input type="submit" value="Send">
-</form>
+</form><br>
 <script>
  $("form").submit(function(){
   alert("Submitted");
 });
 </script>
-
 
 ***Contact us***
 Do you have questions or would you like to leave us feedback?
