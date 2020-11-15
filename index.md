@@ -1,5 +1,5 @@
 Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGeat*** you can book an entire experience!
-  <button type="button" onclick="downloadFcn()">Download now!"</button> 
+  <button type="button" onclick="downloadFcn()">Download now!</button> 
 
 
 ***Identified problem***
