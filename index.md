@@ -1,16 +1,3 @@
-<style>
-  body {background-color: #E8E8E8;}
-  button {
-  background-color: #00cccc; 
-  border: none;
-  color: white;
-  padding: 10px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
- </style>
 **Everything you need for a sport activity can be found in one place: from equipment to field rental, with *VentureGear* you can book an entire experience!**<br>
 <t><button type="button" onclick="downloadFcn()">Download now!</button> 
 
@@ -51,6 +38,20 @@ Do you own a gym or know a gym that needs advertising?
 You can find us here: [venturegear-support@gmail.com](mailto:caloianu.georgiana97@gmail.com)
 
 ***For more information on how this project was conceived, visit [VentureGear fiki](https://website128658.nicepage.io/VentureGear.html).***
+
+<style>
+  body {background-color: #E8E8E8;}
+  button {
+  background-color: #00cccc; 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+ </style>
 
 <script>
   
