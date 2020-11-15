@@ -1,7 +1,16 @@
 theme: jekyll-theme-minimal
 title: VentureGear
 logo: Screenshot from 2020-11-14 23-30-34.png
-description: VentureGear is a mobile application designed for adventurous people to find new sports, new gyms and to rent equipments.
+description: "<html>VentureGear is a mobile application designed for adventurous people to find new sports, new gyms and to rent equipments.<br>
+1. Find new ways to practice sports
+We offer a fully interactive map that helps you find the sports that you can practice near you or at a custom location
+
+2. Help your business grow
+VentureGear offers an innovative way to advertise your business to the public
+
+3. Stay healthy
+By offering more solutions to sports enthusiasts, we hope to help both the sports enthusiasts and newcomers into new sports
+</html>"
 show_downloads: false
 footer: 
   links:
