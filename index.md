@@ -24,7 +24,7 @@ Do you have some free time left and you don't know how to invest it best?
 Do you want to practice a sport but don't want to invest in purchasing equipment? 
 <i>You've come to the right place!</i> With VentureGear you can borrow sports equipment from application members.
 
-Do you own a gym or gym that needs advertising? 
+Do you own a gym or know a gym that needs advertising? 
 <i>You've come to the right place!</i> Write your ad in our application!
 
 ***Newsletter***<br>
