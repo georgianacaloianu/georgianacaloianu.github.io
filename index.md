@@ -1,6 +1,7 @@
 Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGeat*** you can book an entire experience!
 <html><button type="button" onclick="alert("Not available yet! Please complete newsletter :) Have a great day!")>Download now!</button><html>
 
+
 ***Identified problem***
 The busy lives of modern people who no longer have time to invest time in their hobbies.
 
@@ -17,6 +18,7 @@ Do you want to practice a sport, but don't want to invest in purchasing equipmen
 
 Do you own a gym or gym that needs advertising? You've come to the right place! Write your ad in our application!
 
+
 ***Why us?***
 See what can we do for you: 
 - online booking services
@@ -25,6 +27,7 @@ See what can we do for you:
 - search based on interests (equipment, sports)
 - search based on location (vacation, your neighborhood)
 - fixed commission for confirmed and unconfirmed reservations
+
 
 ***Newsletter***
 Subscribe to our newsletter to find out the latest features of the VentureGear application and the date when the application will be available on Google Play and  App Store.
@@ -41,8 +44,10 @@ Subscribe to our newsletter to find out the latest features of the VentureGear a
 });
 </script>
 
+
 ***Contact us***
 Do you have questions or would you like to leave us feedback?
 You can find us here: [venturegear-support@gmail.com](mailto:caloianu.georgiana97@gmail.com)
+
 
 ***For more information on how this project was conceived, visit [VentureGear fiki](https://website128658.nicepage.io/VentureGear.html).***
