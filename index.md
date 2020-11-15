@@ -1,6 +1,5 @@
 Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGeat*** you can book an entire experience!
-  <button type="button" onclick="alert("Not available yet! Please complete newsletter :) Have a great day!")>"Download now!"</button> 
-                                                        
+  <button type="button" onclick="downloadFcn()">Download now!"</button> 
 
 
 ***Identified problem***
@@ -39,11 +38,6 @@ Subscribe to our newsletter to find out the latest features of the VentureGear a
   <input type="text" id="email" name="email"><br>
   <input type="submit" value="Send">
 </form><br>
-<script>
- $("form").submit(function(){
-  alert("Submitted");
-});
-</script>
 
 ***Contact us***
 Do you have questions or would you like to leave us feedback?
@@ -51,3 +45,14 @@ You can find us here: [venturegear-support@gmail.com](mailto:caloianu.georgiana9
 
 
 ***For more information on how this project was conceived, visit [VentureGear fiki](https://website128658.nicepage.io/VentureGear.html).***
+
+<script>
+  
+  let downloadFcn = function() {
+    alert("Not available yet! Please complete newsletter :) Have a great day!");
+   }
+  
+ $("form").submit(function(){
+  alert("Submitted");
+});
+</script>
