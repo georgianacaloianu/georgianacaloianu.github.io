@@ -1,5 +1,5 @@
 <style>
-  body {background-color: coral;}
+  body {background-color: #E0E0E0;}
  .button {
   background-color: #4CAF50; /* Green */
   border: none;
