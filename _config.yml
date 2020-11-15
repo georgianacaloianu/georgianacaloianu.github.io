@@ -3,4 +3,7 @@ title: VentureGear
 logo: Screenshot from 2020-11-14 23-30-34.png
 description: VentureGear is a mobile application designed for adventurous people to find new sports, new gyms and to rent equipments.
 show_downloads: false
-url: https://website128658.nicepage.io/VentureGear.html
+author: 
+  name: "Find more about us"
+  links:
+    url: "https://website128658.nicepage.io/VentureGear.html"
