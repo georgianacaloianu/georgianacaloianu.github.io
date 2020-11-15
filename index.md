@@ -7,7 +7,7 @@ The busy lives of modern people who no longer have time to invest time in their 
 ***Our solution***<br>
 A mobile application that allows searching nearby or in a desired location for existing sports or recreational opportunities. With this easy to use application, you have at hand sports recommendations based on interests and location, sports equipment rentals and land reservations.
 
-With this application we also want to remove the anonymity of some sports not so practiced in Romania or even of some halls and lands not so well known, maybe even from your proximity!
+<i>Side-note:</i> With this application we also want to remove the anonymity of some sports not so practiced in Romania or even of some halls and lands not so well known, maybe even from your proximity!
 
 ***Why us?*** See what can we do for you: 
 - online booking services
@@ -19,16 +19,16 @@ With this application we also want to remove the anonymity of some sports not so
 
 ***Do you ...?***<br>
 Do you have some free time left and you don't know how to invest it best? 
-<i>You've come to the right place!</i> VentureGear provides you with posts of the members of the application with sports that you can practice in your proximity.
+<i>You've come to the right place!</i> Members of the VentureGear application post sports that you can practice in your proximity.
 
 Do you want to practice a sport but don't want to invest in purchasing equipment? 
-<i>You've come to the right place!</i> With VentureGear you can borrow sports equipment from application members.
+<i>You've come to the right place!</i> With VentureGear you can borrow sport equipments from other VentureGear members.
 
 Do you own a gym or know a gym that needs advertising? 
 <i>You've come to the right place!</i> Write your ad in our application!
 
 ***Newsletter***<br>
-Subscribe to our newsletter to find out the latest features of the VentureGear application and the date when the application will be available on Google Play and  App Store.
+Subscribe to our newsletter to find out the latest features of the VentureGear application and the date when the application will be available on <i>Google Play</i> and  <i>App Store</i>.
 <form>
   <label for="name">Name: </label>
   <input type="text" id="name" name="name"><br>
