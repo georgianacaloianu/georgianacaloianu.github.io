@@ -1,4 +1,4 @@
-Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGear*** you can book an entire experience!<br><br>
+Everything you need for a sport activity can be found in one place: from equipment to field rental, with ***VentureGear*** you can book an entire experience!<br>
 <button type="button" onclick="downloadFcn()">Download now!</button> 
 
 ***Identified problem***<br>
